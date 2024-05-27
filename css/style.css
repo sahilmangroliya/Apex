@@ -1,0 +1,876 @@
+/* roboto-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/roboto-v30-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/roboto-v30-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/roboto-v30-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/roboto-v30-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/roboto-v30-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/roboto-v30-latin-regular.svg#Roboto') format('svg');
+    /* Legacy iOS */
+}
+
+/* roboto-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/roboto-v30-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/roboto-v30-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/roboto-v30-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/roboto-v30-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/roboto-v30-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/roboto-v30-latin-500.svg#Roboto') format('svg');
+    /* Legacy iOS */
+}
+
+/* roboto-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/roboto-v30-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/roboto-v30-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/roboto-v30-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/roboto-v30-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/roboto-v30-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/roboto-v30-latin-700.svg#Roboto') format('svg');
+    /* Legacy iOS */
+}
+
+/* roboto-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/roboto-v30-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/roboto-v30-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/roboto-v30-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/roboto-v30-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/roboto-v30-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/roboto-v30-latin-900.svg#Roboto') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-200 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    src: url('../fonts/poppins-v20-latin-200.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-200.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-200.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-200.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-200.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-200.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/poppins-v20-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-300.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v20-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-regular.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/poppins-v20-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-500.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/poppins-v20-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-600.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/poppins-v20-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-700.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/poppins-v20-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-800.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/poppins-v20-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-900.svg#Poppins') format('svg');
+    /* Legacy iOS */
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: #182333;
+    --yello-color: #FDA12B;
+    --color: #8D9297;
+    --color-light: #F8F9FA;
+
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins';
+}
+
+.grey_color {
+    color: var(--color);
+}
+
+.text_color {
+    color: var(--color);
+}
+
+a {
+    text-decoration: none;
+    color: #FDA12B;
+}
+
+.bg-light {
+    background-color: #F8F9FA !important;
+}
+
+.light-color {
+    color: #F8F9FA;
+}
+
+small {
+    font-family: 'Poppins';
+    color: #8D9297;
+}
+
+.light_color {
+    color: #F8F9FA;
+}
+
+.icon_color {
+    color: var(--yello-color);
+}
+
+.spesr {
+    margin: 50px 0;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #8D9297;
+    margin-left: 30px;
+    padding: 25px 0;
+    font-weight: 500;
+    text-transform: uppercase;
+    outline: none;
+    display: block;
+}
+
+.navbar-nav li {
+    position: relative;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    /* width: 100%; */
+    top: 100%;
+    text-align: left;
+    color: #212529;
+    background-color: #fff;
+    padding: 0;
+    border: 2px solid #FDA12B;
+    z-index: 100;
+}
+
+.sub-menu li a{
+    display: block;
+    padding: 5px 30px;
+    width: 100%;
+    text-align: inherit;
+    color: #212529;
+}
+
+.navbar-nav li:hover .sub-menu {
+    display: block;
+}
+
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover {
+    color: var(--yello-color);
+}
+
+
+@media screen and (max-width: 991.98px) {
+    .navbar .navbar-nav .nav-link {
+        margin-left: 0;
+        padding: 10px 0;
+    }
+}
+
+.socialmedia_icon a {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.carousel-caption {
+    top: 30% !important;
+}
+
+@media screen and (max-width: 768px) {
+    .main_img {
+        position: relative;
+        min-height: 450px;
+    }
+
+    .main_img img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #slider_1.owl-carousel .owl-nav button.owl-next i,
+    #slider_1.owl-carousel .owl-nav button.owl-prev i {
+        width: 40px;
+        height: 40px;
+        border-width: 12px;
+        font-size: 40px;
+        font-weight: 600;
+    }
+}
+
+.top_header_fix {
+    z-index: 1000;
+    animation: header 1s;
+    background-color: #8D9297;
+}
+
+@keyframes header {
+    from {
+        transform: translateY(-100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}
+
+.carousel-control-prev-icon {
+    width: 4rem;
+    height: 4rem;
+    background-color: #182333;
+    border: 15px solid #182333;
+    border-radius: 50px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+}
+
+
+.carousel-control-next-icon {
+    width: 4rem;
+    height: 4rem;
+    background-color: #182333;
+    border: 15px solid #182333;
+    border-radius: 50px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100% 100%;
+}
+
+.breadcrumb li {
+    color: var(--color-light);
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, .65);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.carousel-caption {
+    z-index: 22;
+}
+
+.btn-primary {
+    background-color: var(--yello-color);
+    border: var(--yello-color);
+}
+
+.bg-color {
+    background-color: #FDA12B;
+    color: var(--color-light);
+}
+
+.raj {
+    height: 200px;
+    width: 200px;
+}
+
+.line-1 {
+    padding-left: 50px;
+    border-left: 5px solid var(--yello-color);
+}
+
+.font-1 {
+    font-weight: 700;
+}
+
+.boder_top {
+    border-top: 1px solid #dee2e6
+}
+
+.Construction {
+    position: absolute;
+    padding: 30px;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(0, 0, 0, .65);
+}
+
+.Construction h1 {
+    font-size: 120px;
+    color: transparent;
+}
+
+.Construction a:hover {
+    color: #FDA12B !important;
+}
+
+.text-1 {
+    font-weight: 700;
+    line-height: 1.2;
+    -webkit-text-stroke: 1px var(--yello-color);
+}
+
+.small {
+    font-size: .875em;
+}
+
+.service_text {
+    transition: 0.5s;
+}
+
+.service_item:hover {
+    background-color: #FDA12B;
+}
+
+.service_item .service_text:hover .grey_color {
+    color: white;
+}
+
+.service_item .service_text:hover .small {
+    color: white;
+}
+
+.service_item .service_text:hover {
+    background-color: #FDA12B;
+    color: white;
+}
+
+.appointment {
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../image/asset\ 1.jpeg) center center no-repeat;
+    background-size: cover;
+
+}
+
+.display-6 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+@media screen and (min-width: 1200px) {
+    .display-6 {
+        font-size: 2.5rem;
+    }
+}
+
+.form-floating {
+    position: relative;
+}
+
+.form-floating>.raj {
+    height: calc(3.5rem + 2px);
+    padding: 1rem 0.75rem;
+}
+
+.nick_name {
+    display: block;
+    width: 100%;
+    padding: 16px 12px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #8D9297;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.nick_name1 {
+    display: block;
+    width: 100%;
+    padding: 16px 12px;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+
+.btn_theme {
+    background: #FDA12B;
+}
+
+.btn:hover {
+    background: rgba(253, 161, 43, 0.7);
+}
+
+.img-text {
+    position: absolute;
+    width: 75%;
+    bottom: 30px;
+    left: 0;
+    transition: .5s;
+}
+
+.img-hover:hover .img-text {
+    width: 100%;
+}
+
+.img-hover {
+    position: relative;
+    overflow: hidden;
+}
+
+.img-hover::before .img-text {
+    content: "";
+    width: 75%;
+    bottom: 30px;
+    left: 0;
+    transition: .5s;
+}
+
+.icon {
+    color: #FDA12B;
+}
+
+.owl-nav button i {
+    border: 2px solid #FDA12B;
+    border-radius: 50%;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    font-size: 14px;
+
+}
+
+#slider_2 .owl-nav button i:hover {
+    background-color: #FDA12B;
+    color: #fff;
+}
+
+#slider_2 .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+}
+
+#slider_2.owl-carousel .owl-item img {
+    width: 100px !important;
+    height: 100px;
+}
+
+.line-2 {
+    background-color: #FDA12B;
+}
+
+#slider_2 .owl-nav button.owl-prev {
+    position: absolute;
+    left: 0%;
+}
+
+#slider_2 .owl-nav button.owl-next {
+    position: absolute;
+    left: 10%;
+}
+
+.owl-theme .owl-nav {
+    margin-top: 30px;
+}
+
+#slider_2 .owl-nav button.owl-prev,
+#slider_2 .owl-nav button.owl-next {
+    font-size: 40px;
+}
+
+#slider_2 .owl-nav button.owl-prev:hover,
+#slider_2 .owl-nav button.owl-next:hover {
+    background-color: transparent;
+    color: #FDA12B;
+}
+
+.bg-dr {
+    background-color: #182333 !important;
+}
+
+.btn-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+
+.btn-square {
+    width: 38px;
+    height: 38px;
+}
+
+.btn {
+    font-weight: 500;
+    transition: .5s;
+}
+
+
+.btn-square,
+.btn-sm-square,
+.btn-lg-square {
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: normal;
+}
+
+.btn-square {
+    width: 38px;
+    height: 38px;
+}
+
+.btn {
+    font-weight: 500;
+    transition: .5s;
+}
+
+.btn-outline-primary {
+    color: #FDA12B;
+    border-color: #FDA12B;
+}
+
+a {
+    list-style: none !important;
+}
+
+.marek {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    color: #999999;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+
+.me-r {
+    margin-right: 10px;
+}
+
+.form-rv {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #8D9297;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.main_img img {
+    height: 100%;
+    width: 100%;
+}
+
+.img_text {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    text-align: start;
+    background: rgba(0, 0, 0, .65);
+    z-index: 1;
+    position: absolute;
+}
+
+#slider_1 .owl-nav button i {
+    font-size: 40px;
+    width: 4rem;
+    height: 4rem;
+    background-color: #182333;
+    border: 15px solid #182333;
+    border-radius: 50px;
+    color: #fff;
+}
+
+#slider_1 .owl-nav button.owl-prev:hover,
+#slider_1 .owl-nav button.owl-next:hover {
+    background-color: transparent;
+}
+
+#slider_1.owl-carousel .owl-nav button.owl-prev {
+    position: absolute;
+    bottom: 50%;
+    left: 5%;
+}
+
+#slider_1.owl-carousel .owl-nav button.owl-next {
+    position: absolute;
+    bottom: 50%;
+    left: 90%;
+}
+
+.page-header {
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../image/carousel-1.jpg) center center no-repeat;
+    background-size: cover;
+}
+
+.display-4 {
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.breadcrumb {
+    /* display: flex;
+    flex-wrap: wrap; */
+    padding: 0 0;
+    margin-bottom: 1rem;
+    list-style: none;
+}
+
+.breadcrumb-item.active {
+    color: #6c757d;
+}
+
+.text-primary {
+    color: #FDA12B !important;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    float: left;
+    padding-right: .5rem;
+    color: #fff;
+}
+
+.display-1 {
+    font-size: 100px;
+    font-weight: 700;
+}
